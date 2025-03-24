@@ -1,6 +1,6 @@
 ## My Bio
-I am **Aayush**, homelabber and Data Scientist with a keen interest in developing strong applications using new cutting-edge technology and frameworks.
-Since 4 years I have been delved into Computer Science World learning different aspects of technolgoies that make breaktrhoughs in the industry.
+I am **Aayush**, homelabber and Data Scientist with a keen interest in developing applications using new cutting-edge technology and frameworks.
+Since 4 years I have been delved into Computer Science World learning different aspects of technolgoies that make breakthroughs in the industry.
 
 ### My Skill Sets
 Currently My skill sets are:
